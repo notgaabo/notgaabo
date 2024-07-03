@@ -11,11 +11,8 @@
 
 ## Proyectos Destacados
 
-### [Nombre del Proyecto](link_al_proyecto)
-Breve descripción del proyecto y sus tecnologías clave utilizadas.
-
-### [Nombre del Proyecto](link_al_proyecto)
-Breve descripción del proyecto y sus tecnologías clave utilizadas.
+### [Mi portafolio](https://github.com/notgaabo/Mi-portafolio)
+Aqui encuentras mi contacto y ves mis skills mas rapido y detallado
 
 ## Mis Contribuciones
 
