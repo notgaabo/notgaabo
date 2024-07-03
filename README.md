@@ -1,16 +1,32 @@
-### Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**notgaabo/notgaabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub! Soy [Tu Nombre], un desarrollador apasionado por crear soluciones innovadoras y eficientes. Aquí encontrarás proyectos en los que he trabajado utilizando una variedad de tecnologías que incluyen HTML, CSS, JavaScript, React, Flutter, Dart, PHP, MySQL y SQL Server.
 
-Here are some ideas to get you started:
+## Tecnologías que Utilizo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Móvil**: Flutter, Dart
+- **Backend**: PHP
+- **Bases de Datos**: MySQL, SQL Server
+
+## Proyectos Destacados
+
+### [Nombre del Proyecto](link_al_proyecto)
+Breve descripción del proyecto y sus tecnologías clave utilizadas.
+
+### [Nombre del Proyecto](link_al_proyecto)
+Breve descripción del proyecto y sus tecnologías clave utilizadas.
+
+## Mis Contribuciones
+
+- Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades.
+- Me interesa colaborar en proyectos open source y aprender de la comunidad.
+
+## Contacto
+
+- Encuéntrame en [LinkedIn](https://www.linkedin.com/in/yoensi-arias-248b32299/).
+- Visita mi sitio web personal en [Mi portafolio](https://mi-portafolio-navy.vercel.app/).
+
+## ¡Gracias por Visitar!
+
+¡Espero que encuentres interesante mi trabajo! No dudes en contactarme si tienes alguna pregunta o sugerencia.
