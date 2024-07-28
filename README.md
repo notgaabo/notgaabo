@@ -6,7 +6,7 @@
 
 - **Frontend**: HTML, CSS, JavaScript, React
 - **Móvil**: Flutter, Dart
-- **Backend**: PHP
+- **Backend**: PHP, Python
 - **Bases de Datos**: MySQL, SQL Server
 
 ## Proyectos Destacados
