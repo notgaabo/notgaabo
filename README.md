@@ -1,10 +1,8 @@
 # 👋 ¡Hola, soy NotGaabo!
 
-![Coding GIF](https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 Soy un desarrollador apasionado por crear **soluciones innovadoras y eficientes**. En este espacio comparto mis proyectos personales y colaborativos, donde aplico tecnologías modernas tanto en el frontend como en el backend.
-
----
 
 ## 🚀 Tecnologías que Utilizo
 
