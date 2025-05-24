@@ -18,14 +18,10 @@ Soy un desarrollador apasionado por crear **soluciones innovadoras y eficientes*
 ### 📦 [Inventario QR](https://github.com/notgaabo/Proyecto-Inventario-con-QR-code)
 Sistema de gestión de inventario con soporte de códigos QR, generación automática y escaneo de productos.
 
-![Inventario QR Preview](https://user-images.githubusercontent.com/674621/170319322-cde3b6a2-bb8a-4f49-98b7-19de5e269014.png)
-
 ---
 
 ### 🌐 [Mi Portafolio](https://github.com/notgaabo/Mi-portafolio)
 Sitio web personal donde muestro mi experiencia, habilidades y proyectos destacados.
-
-![Portafolio Preview](https://raw.githubusercontent.com/notgaabo/Mi-portafolio/main/assets/preview.png)
 
 ---
 
