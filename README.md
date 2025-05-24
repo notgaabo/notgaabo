@@ -1,29 +1,50 @@
-# ¡Hola! 👋
+# 👋 ¡Hola, soy NotGaabo!
 
-¡Bienvenido a mi perfil de GitHub! Soy [Tu Nombre], un desarrollador apasionado por crear soluciones innovadoras y eficientes. Aquí encontrarás proyectos en los que he trabajado utilizando una variedad de tecnologías que incluyen HTML, CSS, JavaScript, React, Flutter, Dart, PHP, MySQL y SQL Server.
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
-## Tecnologías que Utilizo
+Soy un desarrollador apasionado por crear **soluciones innovadoras y eficientes**. En este espacio comparto mis proyectos personales y colaborativos, donde aplico tecnologías modernas tanto en el frontend como en el backend.
 
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Móvil**: Flutter, Dart
-- **Backend**: PHP, Python
-- **Bases de Datos**: MySQL, SQL Server
+## 🚀 Tecnologías que Utilizo
 
-## Proyectos Destacados
+| Frontend | Móvil | Backend | Bases de Datos |
+|----------|-------|---------|----------------|
+| ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) | ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white) |
+ 
 
-### [Mi portafolio](https://github.com/notgaabo/Mi-portafolio)
-Aqui encuentras mi contacto y ves mis skills mas rapido y detallado
+---
 
-## Mis Contribuciones
+## 🌟 Proyectos Destacados
 
-- Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades.
-- Me interesa colaborar en proyectos open source y aprender de la comunidad.
+### 📦 [Inventario QR](https://github.com/notgaabo/Proyecto-Inventario-con-QR-code)
+Sistema de gestión de inventario con soporte de códigos QR, generación automática y escaneo de productos.
 
-## Contacto
+![Inventario QR Preview](https://user-images.githubusercontent.com/674621/170319322-cde3b6a2-bb8a-4f49-98b7-19de5e269014.png)
 
-- Encuéntrame en [LinkedIn](https://www.linkedin.com/in/yoensi-arias-248b32299/).
-- Visita mi sitio web personal en [Mi portafolio](https://mi-portafolio-navy.vercel.app/).
+---
 
-## ¡Gracias por Visitar!
+### 🌐 [Mi Portafolio](https://github.com/notgaabo/Mi-portafolio)
+Sitio web personal donde muestro mi experiencia, habilidades y proyectos destacados.
 
-¡Espero que encuentres interesante mi trabajo! No dudes en contactarme si tienes alguna pregunta o sugerencia.
+![Portafolio Preview](https://raw.githubusercontent.com/notgaabo/Mi-portafolio/main/assets/preview.png)
+
+---
+
+## 📈 Mis Contribuciones
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=notgaabo&theme=dark&hide_border=true&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+---
+
+## 📬 Contacto
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/yoensi-arias-248b32299/)
+- 🌍 [Mi portafolio](https://mi-portafolio-navy.vercel.app/)
+- 📧 ¿Tienes alguna pregunta o propuesta? ¡Estoy abierto a colaboraciones!
+
+---
+
+## 🙌 ¡Gracias por Visitar!
+
+> *Espero que encuentres útil e interesante mi trabajo. Siéntete libre de explorar mis proyectos o contactarme si tienes alguna sugerencia o idea para colaborar.*
+
+![Thank You](https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif)
